@@ -1,0 +1,84 @@
+{
+  "Bridges": {
+    "1668021419": {
+      "BridgeId": "1",
+      "Humidity": 46.855507474,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668021419,
+      "VehicleWeight": 337.154299789
+    },
+    "1668021500": {
+      "BridgeId": "1",
+      "Humidity": 41.527389614,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668021500,
+      "VehicleWeight": 316.949526221
+    },
+    "1668021512": {
+      "BridgeId": "1",
+      "Humidity": 41.869550534,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668021512,
+      "VehicleWeight": 309.920878662
+    },
+    "1668062652": {
+      "BridgeId": "1",
+      "Humidity": 33.208562983,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668062652,
+      "VehicleWeight": 337.897285144
+    },
+    "1668062688": {
+      "BridgeId": "1",
+      "Humidity": 30.278128292,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668062688,
+      "VehicleWeight": 338.872275106
+    },
+    "1668067268": {
+      "BridgeId": "1",
+      "Humidity": 37.547530886,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668067268,
+      "VehicleWeight": 343.775354815
+    },
+    "1668067344": {
+      "BridgeId": "1",
+      "Humidity": 47.438952532,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668067343,
+      "VehicleWeight": 310.958267679
+    },
+    "1668071415": {
+      "BridgeId": "1",
+      "Humidity": 44.303167723,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668071415,
+      "VehicleWeight": 338.441320229
+    },
+    "1668071439": {
+      "BridgeId": "1",
+      "Humidity": 49.92838054,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668071439,
+      "VehicleWeight": 317.961016903
+    },
+    "1668071465": {
+      "BridgeId": "1",
+      "Humidity": 45.600857912,
+      "Latitude": -1.184088,
+      "Longitude": 27.047712,
+      "Time": 1668071465,
+      "VehicleWeight": 345.742595172
+    }
+  }
+}
